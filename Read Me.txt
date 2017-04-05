@@ -1,0 +1,17 @@
+# install the repo with npm
+npm install
+
+# start the server
+npm start
+
+# use Hot Module Replacement
+npm run server:dev:hmr
+
+
+# development
+npm run server
+# production
+npm run build:prod
+npm run server:prod
+
+More Support - https://github.com/AngularClass/angular2-webpack-starter
